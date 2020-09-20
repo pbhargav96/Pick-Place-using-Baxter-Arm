@@ -1,4 +1,4 @@
-# ENPM-661-Project-4
+# Pick and Place object using Baxter Arm
 ## Implementation of Motion Planning on Baxter
 
 ## Authors:
